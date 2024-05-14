@@ -116,6 +116,4 @@ This final step publishes the built static files to the gh-pages branch of the r
 
 We then ensured the website is deployed correctly, updated the link to open an issue on GitHub, and verified this change was made on the deployed website.
 
-## 🤝 Contributing
-
-If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
+Note: this readme.md file was created with the help of Anthropic's Claude, partially based off the assignment description
